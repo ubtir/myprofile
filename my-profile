@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> My Profile</title>
+  </head>
+
+  <style>
+    * {
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: white;
+    }
+
+    p {
+      font-size: 16px;
+    }
+    
+    div {
+      width: 600px;
+     
+      
+    }
+    
+
+  </style>
+  <body>
+    <header >
+     <h1>Yvonne Hong</h1>
+    <nav>
+      <ul>
+        <li>About</li>
+        <li>skills</li>
+        <li>Portfolio</li>
+        <li>Contact</li>
+      </ul>
+    </nav>
+    </header>
+
+    <section id="about" >
+      <h2>About Me</h2>
+      <p>
+        My passion for photography has led me 
+        to develop a distinctive perspective as a photographer. <br />I am able to see ordinary things in an extraordinary light through the lens.<br />
+
+        <br />Join me as I navigate through life with my camera eye, always seeking to see things differently<br /> and sharing the magic I discover along the way.<br />
+
+        <br />I am pleased to welcome you to my visual diary.
+      </p>
+    </section>
+
+    <section id="portfolio">
+      <h2>Portfolio</h2>
+      <div>
+        <div class="image">
+          
+          <img src="images/_AGT4483.jpg" alt="Snowy Mountains 1" width=600px>
+      
+        </div>
+
+        <div class="image">
+          <img src="images/_AGT4521.jpg" alt="Snowy Mountains 2" width=600px;>
+        </div> 
+
+        <div class="image">
+          <img src="images/_AGT4500.jpg" alt="Snowy Mountains 3" width=600px>
+        </div> 
+      
+        <div class="image">
+          <img src="images/_AGT4511.jpg" alt="Snowy Mountains 4" width=600px>
+        </div> 
+      
+        <div class="image">
+          <img src="images/_AGT4532.jpg" alt="Snowy Mountains 5" width=600px>
+        </div>      
+      
+      </div> 
+ 
+    </section>
+
+    <section id="contact">
+      <h2>Conatact</h2>
+      <address>
+        <p><a href="mailto:yvonne.hong@me.com">Email me</a></p>
+      </address>
+      <a href="https://www.facebook.com"><img src="images/facebook_4138125 (1).png" alt="facebook" width="50px"></a>
+      
+      <a href="https://www.instagram.com"><img src="images/instagram_2111463.png" alt="instagram" width="50px"></a>
+
+      <img src="images/TikTok-Logo.wine.png" alt="tiktok" width="100px">
+    </section>
+
+    <script>
+      
+    </script>
+   <footer>
+    <P>2023 Yvonne Hong. All Rights Reserved. </P>
+   </footer>
+
+  </body>
+</html>
